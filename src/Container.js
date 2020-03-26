@@ -4,7 +4,7 @@ import './Container.css'
 function Container() {
   return (
     <div>
-      Marmo code challenge!
+      Your components go here, have fun!
     </div>
   )
 }
