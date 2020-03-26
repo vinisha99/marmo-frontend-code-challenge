@@ -36,11 +36,8 @@ In this challenge you will use react components and hooks to display a list of s
 
 Inside src/assets you will find:
 
-play.svg
 <img src="src/assets/play.svg" width="100">
-star.svg
 <img src="src/assets/star.svg" width="100">
-trash.svg
 <img src="src/assets/trash.svg" width="100">
 
 
