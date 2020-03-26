@@ -12,7 +12,7 @@ In this challenge you will use react components and hooks to display a list of s
 
 ## Requirements:
 
-***We ask that you take no longer than 4 hours for the challenge. It is okay if you do not finish all requirements, we want to get a sense of your work and how you structure your code***
+***We ask that you take no longer than 4 hours for the challenge. It is okay if you do not finish all tasks, we want to get a sense of your work and how you structure your code***
 
 * Build out your components in src/components
 * Use Container.js to render your components
@@ -31,15 +31,18 @@ In this challenge you will use react components and hooks to display a list of s
 
 ![](public/example-wireframe.jpg)
 
+
 **Assets/Data provided:**
 
 Inside src/assets you will find:
+
 play.svg
 <img src="src/assets/play.svg" width="100">
 star.svg
 <img src="src/assets/star.svg" width="100">
 trash.svg
 <img src="src/assets/trash.svg" width="100">
+
 
 Inside src/data you will find:
 ```
