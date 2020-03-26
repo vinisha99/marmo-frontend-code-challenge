@@ -1,0 +1,29 @@
+{ 
+  "songs": [
+    {
+      "artist":  "Skrillex",
+      "title": "Bangarang",
+      "rating": 0
+    },
+    {
+      "artist":  "James Brown",
+      "title": "I Feel Good",
+      "rating": 0
+    },
+    {
+      "artist":  "Santana",
+      "title": "Smooth",
+      "rating": 0
+    },
+    {
+      "artist":  "Star Wars Theme",
+      "title": "John Williams",
+      "rating": 0
+    },
+    {
+      "artist":  "Rebecca Black",
+      "title": "Friday",
+      "rating": 0
+    }
+  ]
+}
