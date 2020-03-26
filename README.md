@@ -2,17 +2,18 @@
 
 ## Objective:
 
-In this challenge you will use react components and hooks to display a list of songs, with the ability to rate, remove and create a new song, with data persisting on the page. We have provided assets, data and the file structure/environment. Please reference the requirements and tasks below to complete the challenge.
+In this challenge you will use react components and hooks to display a list of songs, with the ability to rate, remove and create a new song, with data persisting on the page. We have provided assets, data, and the file structure/environment. Please reference the requirements and tasks below to complete the challenge.
 
 ## Setup:
 * Clone this repo: ```git clone https://github.com/MarmosetMusic/marmo-frontend-code-challenge.git```
 * Have Node >= 8.10 installed
+* Run ```yarn``` to install all necessary packages.
 * Run the environment: ```npm start``` or ```yarn start```
 * Visit ```http://localhost:3000```
 
 ## Requirements:
 
-***We ask that you take no longer than 4 hours for the challenge. It is okay if you do not finish all tasks, we want to get a sense of your work and how you structure your code***
+***We ask that you take no longer than 4 hours for the challenge. It is okay if you do not finish all tasks, we want to get a sense of your work and how you structure your code.***
 
 * Build out your components in src/components
 * Use Container.js to render your components
