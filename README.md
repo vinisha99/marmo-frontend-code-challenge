@@ -35,11 +35,11 @@ In this challenge you will use react components and hooks to display a list of s
 
 Inside src/assets you will find:
 * play.svg
-![](src/assets/play.svg)
+<img src="src/assets/play.svg" width="100">
 * star.svg
-![](src/assets/star.svg)
+<img src="src/assets/star.svg" width="100">
 * trash.svg
-![](src/assets/trash.svg)
+<img src="src/assets/trash.svg" width="100">
 
 Inside src/data you will find:
 ```
