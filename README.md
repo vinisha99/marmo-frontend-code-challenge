@@ -2,7 +2,7 @@
 
 ## Objective:
 
-In this challenge you will use react components and hooks to display a list of songs, with the ability to rate, remove and create a new song, with data persisting on the page. We have provided assets, data, and the file structure/environment. Please reference the requirements and tasks below to complete the challenge.
+In this challenge you will use React components and hooks to display a list of songs, with the ability to rate, remove and create a new song, with data persisting on the page. We have provided assets, data, and the file structure/environment. Please reference the requirements and tasks below to complete the challenge.
 
 ## Setup:
 * Clone this repo: ```git clone https://github.com/MarmosetMusic/marmo-frontend-code-challenge.git```
@@ -15,18 +15,21 @@ In this challenge you will use react components and hooks to display a list of s
 
 ***We ask that you take no longer than 4 hours for the challenge. It is okay if you do not finish all tasks, we want to get a sense of your work and how you structure your code.***
 
+* Make each task a separate commit - this way, we can easily see your progress with each step.
 * Build out your components in src/components
 * Use Container.js to render your components
 * Use hooks to manage state
 
 ## Tasks:
 
-* Display song data, in a list format on the page
-* Style list according to the output example below (don't worry about exact fonts/colors)
-* Implement rating UI and persist data on the page
-* Implement removing song from list and persist data on the page
-* Implement rudimentary form for adding a new song (inputs: title, artist)
-* Bonus: Rate a new song
+***Using the provided data/assets below, complete the following tasks:***
+
+1. Display song data, in a list format on the page
+2. Style list according to the output example below (don't worry about exact fonts/colors)
+3. Implement rating UI and persist data on the page
+4. Implement removing song from list and persist data on the page
+5. Implement rudimentary form for adding a new song (inputs: title, artist)
+6. Bonus: Rate a new song
 
 **Output example:**
 
@@ -74,10 +77,6 @@ Inside src/data you will find:
   ]
 }
 ```
-**Notes:**
-
-We ask that you make each task a separate commit - this way, we can easily see your progress with each step.
-
 ## To submit
 
 * ```git bundle create marmoset.bundle master```
